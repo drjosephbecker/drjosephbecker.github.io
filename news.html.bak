@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>News &amp; Information</title>
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="tswnavbar.css">
+  </head>
+  <body>
+    <div id="tswcontainer">
+      <div id="tswheader" style="text-align: center;">
+        <!-- start of header section: insert your logo, etc, here -->
+        <!-- end of header section: insert your logo, etc, above this line --> </div>
+      <div id="tswcontent">
+        <div id="tswcontproper">
+          <!-- start of content column: insert your content here -->
+          <table class="auto-style41" style="width: 100%;" align="center" cellspacing="2"
+            cellpadding="2" border="0">
+            <tbody>
+              <tr align="center">
+                <td rowspan="1" colspan="4">
+                  <h1 style="text-align: center;"><img src="images/newsbanner.png"
+                      alt="newsbanner" style="width: 306px; height: 83px;"></h1>
+                  <h1 style="text-align: center;">News &amp; Information</h1>
+                </td>
+              </tr>
+              <tr>
+                <td style="height: 125.417px; text-align: center;"><span style="font-family: Times New Roman,Times,serif;"><a
+                      href="https://www.electoral-vote.com"><img src="https://www.electoral-vote.com/evp2021/Icons/evwide.png"
+                        alt="Click for www.electoral-vote.com" height="80" width="250"
+                        border="0"></a>&nbsp;</span></td>
+                <td rowspan="1" colspan="2" style="text-align: center;"><a href="http://fiddleheadfocus.com/"><img
+                      style="border: 0px solid ; width: 274px; height: 64px;" alt="Fiddlehead Focus / Saint John Valley Times"
+                      src="images/sjv-fhf.gif" title="Fiddlehead Focus / Saint John Valley Times"></a></td>
+                <td style="width: 350.667px; text-align: center;"><a href="https://www.truthorfiction.com/"
+                    title="Truth or Fiction?"><img src="images/truthfiction.png"
+                      alt="Truth or Fiction?"></a></td>
+              </tr>
+              <tr>
+                <td style="text-align: center;"><a href="http://www.mpbn.net/"><img
+                      title="Maine Public: Radio / Television / Online" style="border: 0px solid ; width: 196px; height: 41px;"
+                      src="images/mainepublicsm.png" alt="The Maine Public serves Maine and also reaches most of New Brunswick, Canada, and parts of New Hampshire and Massachusetts."></a></td>
+                <td style="text-align: center;"><a href="http://www.mpbn.net/"></a>
+                  <a href="https://www.bbc.co.uk/programmes/p002vsnk" title="Newshour--BBC World Service: Interviews, news and analysis of the day's global events."><img
+                      src="images/bbc%20newshour.png" alt="BBC Newshour"></a></td>
+                <td style="width: 360.533px; text-align: center;"><a href="https://www.pbs.org/newshour/"
+                    title="PBS Newshour: news updates, analysis, live studio interviews, discussions"><img
+                      src="images/PBS%20Newshour.png" alt="PBS Newshour"></a><br>
+                </td>
+                <td style="height: 89px; text-align: center;"><span style="font-family: Times New Roman,Times,serif;">
+                  </span><a href="https://slate.com/" title="Slate Magazine"><img
+                      alt="Slate new logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Slate_new_logo.svg/220px-Slate_new_logo.svg.png"
+                      data-file-width="534" data-file-height="164" style="width: 104px; height: 32px;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 331.65px; text-align: center;"><a href="https://www.lemonde.fr/"
+                    title="Le Monde (en fran�ais)"><img src="images/le%20monde.png"
+                      alt="Le Monde" title="Le Monde" style="width: 116px; height: 40px;"></a></td>
+                <td style="width: 367.55px; text-align: center;"><a href="http://fiddleheadfocus.com/"></a><a
+                    href="http://www.pressherald.com/"><span class="c2"><span class="style51"><img
+                          style="border: 0px solid; width: 218px; height: 33px;"
+                          src="images/pph-logo.png" alt="Portland Press Herald"
+                          title="Portland Press Herald" hspace="10"></span></span></a></td>
+                <td style="text-align: center;"><a href="http://www.pressherald.com/"><span
+                      class="c2"><span class="style51"></span></span></a><a href="http://bangordailynews.com/"><span
+                      class="style51"><span class="c2"><img style="border: 0px solid ; width: 175px; height: 33px;"
+                          src="images/bdn1.gif" alt="Bangor Daily News" title="Bangor Daily News"
+                          hspace="10"></span></span></a></td>
+                <td style="height: 61px; text-align: center;"><a href="http://bangordailynews.com/"><span
+                      class="style51"><span class="c2"></span></span></a><a href="https://www.washingtonpost.com/"
+                    title="The Washington Post"><img src="images/wapo.png" title="The Washington Post"
+                      alt="The Washington Post" style="border: 0px solid; width: 229px; height: 48px;"></a></td>
+              </tr>
+              <tr>
+                <td style="text-align: center;">
+                  <div class="c1"> <span class="style51"><span class="c2"><a href="http://www.nytimes.com/"><img
+                            src="images/nytlogo.gif" alt="The New York Times" title="The New York Times"
+                            height="32" width="188" border="0"></a></span></span>
+                  </div>
+                </td>
+                <td style="text-align: center;"><a href="https://www.washingtonpost.com/"
+                    title="The Washington Post"></a><span class="style51"><span
+                      class="c2"><a href="http://www.boston.com/bostonglobe/"><img
+                          style="border: 0px solid; width: 211px; height: 37px;"
+                          src="images/bostonglobelogo.gif" alt="The Boston Globe"
+                          title="The Boston Globe"></a></span></span></td>
+                <td style="text-align: center;"><a href="http://www.latimes.com/"></a><a
+                    href="http://www.latimes.com/"><img src="images/la_times_logo.png"
+                      title="The Los Angeles Times" alt="The Los Angeles Times"
+                      style="border: 0px solid; width: 188px; height: 46px;"></a></td>
+                <td style="text-align: center;">
+                  <div class="c1"><span class="style51"><span class="c2"><a href="http://www.boston.com/bostonglobe/"><span
+                            class="style51"><span class="c2"></span></span></a><a
+                          href="http://www.boston.com/bostonglobe/"></a></span></span></div>
+                  <a href="https://www.lemonde.fr/" title="Le Monde (en fran�ais)"></a><a
+                    href="http://chicago.suntimes.com/"><img src="images/chicagosuntimes.png"
+                      title="Chicago Sun-Times" alt="Chicago Sun -Times" style="border: 0px solid; height: 64px; width: 152px;"></a></td>
+              </tr>
+              <tr>
+                <td style="text-align: center;"><a href="https://www.thetimes.co.uk/"><img
+                      src="https://www.thetimes.co.uk/d/img/logos/times-black-ee1e0ce4ed.png"
+                      alt="The Times (UK)" style="width: 90%; height: 90%;"></a><br>
+                </td>
+                <td style="text-align: center;"><a href="https://www.sfchronicle.com/"
+                    title="San Francisco Chronicle"><img src="images/320px-San_Francisco_Chronicle_logo.svg.png"
+                      alt="San Francisco Chronicle"></a><br>
+                </td>
+                <td style="text-align: center;"><a href="https://nationalpost.com/"
+                    title="The National Post"><img src="images/national%20post.png"
+                      alt="The National Post" title="The National Post (Canada)"
+                      style="width: 185px; height: 27px;"></a></td>
+                <td style="text-align: center;"><a href="https://www.journaldemontreal.com/"
+                    title="Le Journal de Montr�al"><img src="images/le%20journal%20de%20montreal.png"
+                      alt="Le Journal de Montr�al" style="width: 137px; height: 69px;"
+                      title="Le Journal de Montr�al"></a></td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="4"><br>
+                  <div style="text-align: center;"><a href="https://thebulwark.com/"
+                      title="The Bulwark"><img src="https://thebulwark.com/app/uploads/2021/02/bulwark-PLAIN.svg"
+                        alt="The Bulwark" style="max-width: 325px; padding-right: 20px;"></a><a
+                      href="https://theconversation.com/us"><img src="images/The_Conversation_website_logo.png"
+                        alt="The Conversation" title="The Conversation" style="padding-left: 15px; padding-bottom: 15px;"></a></div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div style="text-align: left; font-size: 16px;"> </div>
+        <h4 style="text-align: left;">Selected Newspapers</h4>
+        <div style="text-align: left;"><a href="http://www.dailystar.com.lb/">Beirut
+            Daily Star</a> /<a href="http://www.bostonglobe.com/">Boston Globe</a>
+          / <a href="http://www.chicagotribune.com/">Chicago Tribune</a> / <a
+            href="http://chronicle.com/">Chron of Higher Ed</a> / <a href="http://philanthropy.com/">Chron
+            of Philanthropy</a> / <a href="http://www.csmonitor.com/">CS
+            Monitor</a> / <a href="http://www.ft.com/">Financial Times</a> / <a
+            href="http://www.theglobeandmail.com/">Globe &amp; Mail</a> / <a href="http://www.guardian.co.uk/">Guardian</a>
+          / <a href="http://www.haaretz.com/">Ha'aretz</a> / <a href="http://www.japantimes.co.jp/">Japan
+            Times</a> / <a href="http://www.jpost.com/">Jerusalem Post</a> / <a
+            href="http://www.telegraph.co.uk/">London Telegraph</a> / <a href="http://www.latimes.com/">Los
+            Angeles Times</a> / <a href="http://www.themoscowtimes.com/">Moscow
+            Times</a> / <a href="https://www.ncronline.org/" title="National Catholic Reporter">National
+            Catholic Reporter</a> /&nbsp; <a href="http://www.nationalpost.com/">National
+            Post</a> / <a href="http://www.nytimes.com/">New York Times</a> / <a
+            href="http://www.nzherald.co.nz/">New Zealand Herald</a> / <a href="http://www.observer.co.uk/">Observer</a>
+          / <a href="http://www.smh.com.au/">SMH</a> / <a href="http://www.theaustralian.com.au/">The
+            Australian</a> / <a href="http://beta.thehindu.com/">The Hindu</a>
+          / <a href="http://www.independent.co.uk/">The Independent</a> / <a href="http://usatoday.com/">USA
+            Today</a> / &nbsp;<a href="http://wsj.com/">Wall Street Journal</a>
+          / &nbsp;<a href="http://www.washingtonpost.com/">Washington Post</a><br>
+          <a name="breaking"></a> </div>
+        <h4 style="font-family: Times New Roman,Times,serif; text-align: left;"
+          class="sidebarheader">Selected Broadcast News Media</h4>
+        <div style="text-align: left;"><a href="http://abcnews.go.com/">ABC</a>
+          / <a href="http://www.aljazeera.com/">Al Jazeera</a> / <a href="http://hosted.ap.org/">AP</a>
+          / <a href="http://news.bbc.co.uk/">BBC</a> / <a href="http://www.cbc.ca/news/">CBC</a>
+          / <a href="http://cbsnews.com/">CBS</a> / <a href="http://www.cnbc.com/">CNBC</a>
+          / <a href="http://www.cnn.com/">CNN</a> / <a href="http://www.foxnews.com/">Fox</a>
+          / <a href="http://news.google.com/">Google</a> / <a href="http://www.marketwatch.com/">MarketWatch</a>
+          / <a href="http://www.msnbc.com/">MSNBC</a> / <a href="http://www.nbcnews.com/">NBC</a>
+          / <a href="http://www.npr.org/">NPR</a> / <a href="http://www.reuters.com/">Reuters</a>
+          / <a href="http://news.yahoo.com/">Yahoo</a>&nbsp; <br>
+          <a name="magazines"></a> </div>
+        <h4 style="font-family: Times New Roman,Times,serif; text-align: left;"
+          class="sidebarheader">Selected Magazines</h4>
+        <div style="text-align: left;"><a href="http://www.aeonmagazine.com/">Aeon</a>
+          / <a href="http://www.amconmag.com/">American Conservative</a> / <a
+            href="http://www.the-american-interest.com/">American Interest</a> /
+          <a href="http://www.ajr.org/">American Journal Rev</a> / <a href="http://www.prospect.org/">American
+            Prospect</a> / <a href="http://americanreviewmag.com/">American
+            Review</a> / <a href="http://www.theamericanscholar.org/">American
+            Scholar</a> / <a href="http://www.americanscientist.org/">American
+            Scientist</a> / <a href="http://www.spectator.org/">American
+            Spectator</a> / <a href="http://www.bu.edu/arion/">Arion</a> / <a
+            href="http://www.armedforcesjournal.com/">Armed Forces Journal</a> /
+          <a href="http://www.artnews.com/">Art News</a> / <a href="http://www.artforum.com/">Artforum</a>
+          / <a href="http://www.theatlantic.com/magazine/">Atlantic Monthly</a>
+          / <a href="http://www.atlasobscura.com/">Atlas Obscura</a> / <a href="http://www.bigquestionsonline.com/">Big
+            Questions</a> / <a href="http://www.bostonglobe.com/ideas">Boston
+            Globe Ideas</a> / <a href="http://bostonreview.net/">Boston Review</a>
+          / <a href="http://www.cabinetmagazine.org/">Cabinet</a> / <a href="http://chronicle.com/section/The-Chronicle-Review/41?al">Chronicle
+            Review</a> / <a href="http://www.city-journal.org/">City Journal</a>
+          / <a href="http://www.cjr.org/">Columbia Journal Rev</a> / <a href="http://www.commentarymagazine.com/">Commentary</a>
+          / <a href="http://www.common-place.org/">Common-place</a> /&nbsp;<a href="http://www.commonwealmagazine.org/">Commonweal</a>
+          / <a href="https://www.currentaffairs.org/">Current Affairs</a> / <a
+            href="http://www.democracyjournal.org/">Democracy</a> / <a href="http://www.spiegel.de/international">Der
+            Spiegel</a> / <a href="http://discovermagazine.com/">Discover</a> /
+          <a href="http://www.dissentmagazine.org/">Dissent</a> / <a href="http://www.economicprincipals.com/">Economic
+            Principals</a> / <a href="http://www.edge.org/">Edge</a> / <a href="https://electricliterature.com/">Electric
+            Literature</a> / <a href="http://www.eurozine.com/">Eurozine</a> /
+          <a href="http://human-nature.com/ep/">Evolutionary Psych</a> / <a href="http://www.firstthings.com/">First
+            Things</a> / <a href="http://www.forbes.com/">Forbes</a> / <a href="http://www.foreignaffairs.com/">Foreign
+            Affairs</a> / <a href="http://www.foreignpolicy.com/">Foreign
+            Policy</a> / <a href="http://fortnightlyreview.co.uk/">Fortnightly
+            Review</a> / <a href="http://www.theglobalist.com/">Globalist</a> /
+          <a href="http://www.guernicamag.com/">Guernica Magazine</a> / <a href="http://www.harpers.org/">Harper's</a>
+          / <a href="http://www.iasc-culture.org/THR/">Hedgehog Review</a> / <a
+            href="http://www.historytoday.com/frontpage.aspx">History Today</a>
+          / <a href="http://www.hooverdigest.org/">Hoover Digest</a> / <a href="http://www.hudsonreview.com/">Hudson
+            Review</a> / <a href="http://www.neh.gov/news/humanities.html">Humanities</a>
+          / <a href="http://www.inthesetimes.com/">In These Times</a> / <a href="http://www.independent.org/publications/tir/promo.asp">Independent
+            Review</a> / <a href="http://www.moreintelligentlife.com/">Intelligent
+            Life</a> / <a href="http://jacobinmag.com/">Jacobin</a> / <a href="http://daily.jstor.org/">JSTOR
+            Daily</a> /&nbsp;<a href="http://kingsreview.co.uk/magazine/">King's
+            Review</a> &nbsp;/ <a href="http://www.lambdaliterary.org/">Lambda
+            Literary Review</a> / <a href="http://www.laphamsquarterly.org/">Lapham's
+            Quarterly</a> / <a href="http://www.monde-diplomatique.fr/en/index.html">Le
+Monde
+            Diplo</a> / <a href="http://www.logosjournal.com/">Logos</a> / <a
+            href="http://www.macleans.ca/">Maclean's</a> / <a href="https://www.technologyreview.com/">MIT
+            tech review</a> / <a href="http://mosaicmagazine.com/">Mosaic</a> /
+          <a href="http://www.motherjones.com/">Mother Jones</a> / <a href="http://www.msmagazine.com/">Ms.
+            Magazine</a> / <a href="https://nplusonemag.com/">n+1</a> / <a href="http://nationalaffairs.com/">National
+            Affairs</a> / <a href="http://www.nationalinterest.org/">National
+            Interest</a> / <a href="http://www.nationaljournal.com/njonline/">National
+            Journal</a> / <a href="http://www.nationalreview.com/">National
+            Review</a> / <a href="http://nautil.us/">Nautilus</a> / <a href="http://www.thenewatlantis.com/index.html">New
+            Atlantis</a> / <a href="http://www.newcriterion.com/">New Criterion</a>
+          / <a href="http://www.newenglishreview.org/">New English Review</a> /
+          <a href="http://www.newleftreview.org/">New Left Review</a> / <a href="http://www.newrepublic.com/">New
+            Republic</a> / <a href="http://www.newscientist.com/">New Scientist</a>
+          / <a href="http://www.newstatesman.com/">New Statesman</a> / <a href="http://www.nymag.com/">New
+            York Magazine</a> / <a href="http://www.observer.com/">New York
+            Observer</a> / <a href="http://newyorker.com/">New Yorker</a> / <a
+            href="http://newsweek.com/">Newsweek</a> / <a href="http://www.nytimes.com/library/magazine/home">NY
+            Times Magazine</a> / <a href="http://www.opendemocracy.net/">Open
+            Democracy</a> / <a href="http://www.psmag.com/">Pacific Standard</a>
+          / <a href="http://www.carlisle.army.mil/usawc/Parameters/">Parameters</a>
+          / <a href="http://www.theparisreview.org/">Paris Review</a> / <a href="http://www.philosophersnet.com/">Philosophers'
+            Mag</a> / <a href="http://muse.jhu.edu/journals/philosophy_and_literature/toc/phl.33.2.html">Philosophy
+&amp;
+            Literature</a> / <a href="http://www.philosophynow.org/">Philosophy
+            Now</a> / <a href="http://www.poetryfoundation.org/poetrymagazine/">Poetry</a>
+          / <a href="http://www.pw.org/">Poets &amp; Writers</a> / <a href="http://www.cis.org.au/publications/policy-magazine">Policy</a>
+          / <a href="http://www.project-syndicate.org/">Project Syndicate</a> /
+          <a href="http://www.prospectmagazine.co.uk/">Prospect</a> / <a href="http://www.psychologytoday.com/">Psychology
+            Today</a> / <a href="https://publicdomainreview.org/">Public Domain
+            Review</a> / <a href="http://reason.com/">Reason</a> / <a href="http://www.salon.com/">Salon</a>
+          / <a href="http://www.scientificamerican.com/">Scientific American</a>
+          / <a href="http://seedmagazine.com/">Seed</a> / <a href="http://www.csicop.org/si/">Skeptical
+            Inquirer</a> / <a href="http://www.slate.com/">Slate</a> / <a href="http://thesmartset.com/default.aspx/">Smart
+            Set</a> / <a href="http://www.smithsonianmag.com/">Smithsonian
+            Magazine</a> / <a href="http://www.spiked-online.com/">Spiked-Online</a>
+          / <a href="http://www.standpointmag.co.uk/">Standpoint</a> / <a href="http://www.technologyreview.com/">Technology
+            Review</a> / <a href="http://www.american.com/">The American</a> /
+          <a href="http://www.thebaffler.com/">The Baffler</a> / <a href="http://www.thedailybeast.com/">The
+            Daily Beast</a> / <a href="http://economist.com/">The Economist</a>
+          / <a href="http://www.theeuropean-magazine.com/">The European</a> / <a
+            href="http://www.thehumanist.org/">The Humanist</a>&nbsp;/ <a href="http://www.themillions.com/">The
+            Millions</a> / <a href="http://www.thenation.com/">The Nation</a> /
+          <a href="http://thenewinquiry.com/">The New Inquiry</a> /<a href="http://thepointmag.com/">The
+            Point</a> /&nbsp;<a href="http://www.progressive.org/">The
+            Progressive</a> / <a href="http://www.spectator.co.uk/">The
+            Spectator</a> / <a href="http://www.walrusmagazine.ca/">The Walrus</a>
+          / <a href="http://www.thewhitereview.org/">The White Review</a> / <a
+            href="http://www.threepennyreview.com/current.html">Threepenny
+            Review</a> / <a href="http://www.tikkun.org/">Tikkun</a> / <a href="http://www.time.com/time">Time
+            Magazine</a> / <a href="http://www.usnews.com/">US News</a> / <a href="http://www.utne.com/">Utne
+            Reader</a> / <a href="http://www.villagevoice.com/">Village Voice</a>
+          / <a href="http://www.washingtonmonthly.com/">Washington Monthly</a>
+          / <a href="http://www.weeklystandard.com/">Weekly Standard</a>
+          /&nbsp;<a href="http://www.wilsonquarterly.com/">Wilson Quarterly</a>
+          / <a href="http://www.wired.com/">Wired</a> / <a href="http://www.worldaffairsjournal.org/">World
+            Affairs</a><br>
+          <a name="bookreviews"></a> </div>
+        <h4 style="font-family: Times New Roman,Times,serif; text-align: left;"
+          class="sidebarheader">Selected Book Reviews</h4>
+        <div style="text-align: left;"><a href="http://theamericanscholar.org/dept/book-reviews/">American
+            Scholar Books</a> / <a href="http://www.theatlantic.com/culture/category/books/">Atlantic
+            Books</a> / &nbsp;<a href="http://www.australianbookreview.com.au/">Australian
+Book
+            Review</a> / <a href="http://www.theaustralian.news.com.au/thearts/alr/">Australian
+Literary
+            Rev</a> / <a href="http://bnreview.barnesandnoble.com/">B&amp;N
+            Review</a> / <a href="http://www.thedailybeast.com/newsmaker/book-beast/">Book
+            Beast</a> / <a href="http://www.bookforum.com/">Bookforum</a> / <a
+            href="http://www.christianitytoday.com/books/">Books &amp; Culture</a>
+          / <a href="http://www.bostonglobe.com/arts/books">Boston Globe Books</a>
+          / <a href="http://chronicle.com/section/Books/55/">Chronicle Review</a>
+          / <a href="http://www.claremont.org/claremont-review-of-books/">Claremont
+            Review</a> / <a href="http://www.complete-review.com/new/new.html">Complete
+            Review</a> / <a href="http://www.csmonitor.com/Books/Book-Reviews">CS
+            Monitor Books</a> / <a href="http://www.denverpost.com/books">Denver
+            Post</a> / <a href="http://www.drb.ie/">Dublin Review</a> / <a href="http://www.economist.com/books/">Economist
+            Books</a> / <a href="http://www.ft.com/arts/books">Financial Times
+            Books</a> / <a href="http://www.theglobeandmail.com/arts/books-and-media/book-reviews/">Globe
+&amp;
+            Mail Books</a> / <a href="http://www.theguardian.com/books">Guardian
+            Books</a> / <a href="http://www.independent.co.uk/arts-entertainment/books">Independent
+            Books</a> / <a href="http://www.januarymagazine.com/">January
+            Magazine</a> / <a href="http://www.jewishreviewofbooks.com/">Jewish
+            Review of Books</a> / <a href="http://www.literaryreview.co.uk/">Literary
+            Review</a> / <a href="http://www.lrb.co.uk/index.php">London Review</a>
+          / <a href="http://lareviewofbooks.org/">Los Angeles Review of Books</a>
+          / <a href="http://www.latimes.com/features/books/">Los Angeles Times</a>
+          / <a href="http://www.theage.com.au/entertainment/books/index.html">Melbourne
+            Age</a> / <a href="http://metapsychology.mentalhelp.net/poc/view_index.php?idx=news">Metapsychology</a>
+          / <a href="http://newrepublic.com/tags/books">New Republic Books</a>
+          / <a href="http://www.newstatesman.com/books">New Statesman Books</a>
+          / <a href="http://www.nybooks.com/">New York Review</a> / <a href="http://feeds.newyorker.com/books/">New
+            Yorker Books</a> / <a href="http://www.newsday.com/features/booksmags/">Newsday
+            Books</a> / <a href="http://www.nytimes.com/pages/books/review/index.html">NY
+Times
+            Books</a> / <a href="http://www.openlettersmonthly.com/issue/">Open
+            Letters</a> / <a href="http://publicbooks.org/">Public Books</a> /
+          <a href="http://www.salon.com/topic/books/">Salon Books</a> / <a href="http://www.scotsman.com/lifestyle/books">Scotsman
+            Books</a> / <a href="http://www.sfgate.com/books/">SF Chronicle
+            Books</a> / <a href="http://www.slate.com/topics/s/slate_book_review.html">Slate
+            Book Review</a> / <a href="http://www.spectator.co.uk/books">Spectator
+            Books</a> / <a href="http://www.spiked-online.com/reviewofbooks">Spiked
+            Books</a> / <a href="https://sydneyreviewofbooks.com/">Sydney
+            Review of Books</a> / <a href="http://www.tabletmag.com/category/books/">Tablet
+            Books</a> / <a href="http://www.telegraph.co.uk/culture/books/non_fictionreviews/">Telegraph
+            Books</a> / <a href="http://www.thehindu.com/books/">The Hindu
+            Books</a> / <a href="http://www.thenation.com/culture/">The Nation
+            Books</a> / <a href="http://www.the-tls.co.uk/">The TLS</a> / <a href="http://www.timeshighereducation.com/academic/books">Times
+Higher
+            Ed Books</a> / <a href="http://www.kirkcenter.org/index.php/bookman/">University
+            Bookman</a> / <a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/books/index.html">Washington
+            Post</a> / <a href="http://www.washingtontimes.com/books/">Washington
+            Times</a> / <a href="http://online.wsj.com/public/page/book-reviews.html">WSJ
+            Books</a></div>
+        <div style="text-align: center; font-family: Times New Roman,Times,serif;"><a
+            href="http://online.wsj.com/public/page/book-reviews.html"><br>
+          </a></div>
+      </div>
+      <div style="font-size: 12px;"><!-- end of content column: put your content above this line --><br>
+      </div>
+    </div>
+    <div id="tswsidecol">
+      <div id="tswsideproper">
+        <!-- start of side column: insert your navigation menu, etc, here -->
+        <p> </p>
+        <div id="tswcssbuttons">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="https://www.umfk.edu/english/">English at UMFK</a></li>
+            <li><a href="about.html">About Dr. Becker</a></li>
+            <li><a href="https://ambientweather.net/dashboard/16e0681b266993eb92230c42d89f3fd5">Local
+                Weather</a></li>
+            <li><a href="myth.html">Folklore &amp; Mythology</a></li>
+            <li><a href="news.html">News</a></li>
+            <li><a href="philosophy.html">Philosophy</a></li>
+            <li><a href="locke.html">Dr. John R. Locke</a></li>
+            <li><a href="gallimaufry.html">Gallimaufry</a></li>
+            <li><a href="https://apexwx.github.io">Apex Wx</a></li>
+            <li><a href="disclaimer.html">Disclaimer</a></li>
+          </ul>
+        </div>
+        <p></p>
+        <!-- end of side column: put your navigation menu, etc, above this line -->
+      </div>
+    </div>
+    <div style="clear: both;"></div>
+    <div id="tswfooter" style="font-size: 12px;">
+      <!-- start of footer section: insert your copyright notice, etc, here -->
+    </div>
+    <div style="text-align: center; font-size: 12px; margin-left: 120px;"><em>Notice:
+        News media and informational websites may express editorial viewpoints
+        that are not necessarily endorsed or shared by Dr. Becker or any other
+        faculty / staff / administrators at UMFK. </em></div>
+    <div style="font-size: 12px;">
+      <p style="font-size: 12px;"> </p>
+      <!-- end of footer section: insert your copyright notice, etc, above this line -->
+    </div>
+  </body>
+</html>
